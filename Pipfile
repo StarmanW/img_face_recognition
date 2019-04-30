@@ -8,8 +8,6 @@ verify_ssl = true
 [packages]
 dlib = {file = "https://pypi.python.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl"}
 face-recognition = "*"
-opencv-contrib-python = "*"
-opencv-python = "*"
 
 [requires]
 python_version = "3.6"
